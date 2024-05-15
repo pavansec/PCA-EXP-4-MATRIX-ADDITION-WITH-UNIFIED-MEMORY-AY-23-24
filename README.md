@@ -40,7 +40,7 @@ Allocate Host Memory
 
 ## PROGRAM:
 ```
-pip install nvcc4jupyter
+!pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
 ```
 ```
 %load_ext nvcc4jupyter
